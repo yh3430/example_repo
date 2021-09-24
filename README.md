@@ -1,3 +1,3 @@
 # example_repo
 
-this is my first git / github repo, created as an exmple for P8105
+this is my first git / github repo, created as an example for P8105
